@@ -1,4 +1,4 @@
-Version 40. Changelog:
+Version 30. Changelog:
 
 >[Base] New Base update 184.0.0.30.117
 >[Fixed ] Antivirus Issue
