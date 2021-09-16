@@ -1,9 +1,6 @@
-Version 8.40. Changelog:
+Version 8.50. Changelog: 
 
->[Base] New Base update 184.0.0.30.117
->[Fixed ] Antivirus Issue
->[Fixed] Hanging Issue
->[Added] Chat lock
->[Remove] Action Bar and NavBar Setting Again
->[Added] Remix Feature
->Fixed many more issues.
+>[Base] 199.1.0.34.119
+>[Added] Download Own Story With Music 
+>[Redsign] InstaGold Settings 
+>[Added] More Features
