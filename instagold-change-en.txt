@@ -1,7 +1,8 @@
-Version 8.70 Changelog:
-
->[Base] 215.0.0.27.359
->[Added] App Icons
->[Fixed] Backup and Restore
->[Fixed] Story and Reel Uploading
->[Fixed] Random Crash
+Version 8.80 changelog:
+ 
+> [Update] Base 223.1.0.14.103
+> [ADDED] All new Instagram features.
+> [Added] Like stories feature.
+> [Add] In-App Themes (InstaG+ settings > General Settings > Change App Theme).
+> [Fix] All problems in Android 12.
+> [More] Other fixes and improvements.
