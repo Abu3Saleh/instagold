@@ -1,8 +1,8 @@
-Version 8.80 changelog:
- 
-> [Update] Base 223.1.0.14.103
-> [ADDED] All new Instagram features.
-> [Added] Like stories feature.
-> [Add] In-App Themes (InstaG+ settings > General Settings > Change App Theme).
-> [Fix] All problems in Android 12.
-> [More] Other fixes and improvements.
+Version 9.30 log 
+
+> [Update] Base 232.0.0.16.114 
+> [Added] All new Instagram features. 
+> [Added] the feature of changing the font in Instagram. 
+> [Added] The feature of pinning chats at the top. 
+> [Added] Increased video size duration in stories from 15 seconds to 60 seconds. 
+> [More] Other important fixes and improvements.
