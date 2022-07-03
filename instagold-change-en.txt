@@ -1,8 +1,11 @@
-Version 9.30 log 
+What's new in version V9.40
 
-> [Update] Base 232.0.0.16.114 
-> [Added] All new Instagram features. 
-> [Added] the feature of changing the font in Instagram. 
-> [Added] The feature of pinning chats at the top. 
-> [Added] Increased video size duration in stories from 15 seconds to 60 seconds. 
-> [More] Other important fixes and improvements.
+[Base Update] Instagram to 240.2.0.18.107.
+[Add] All the new Instagram features.
+[NEW] New design for Instagram Gold addon.
+[New] New design for app lock option.
+[New] You can now show hidden chats by long pressing on the search box.
+[Remove] Fast video forwarding by Instagram.
+[Fixed] Developer options issue.
+[Fixed] The problem of crashing when changing the language in Android 12.
+[More] Other important fixes and improvements.
