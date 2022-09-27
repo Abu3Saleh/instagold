@@ -1,11 +1,8 @@
-What's new in version V9.40
+What's new in version V9.60
 
-[Base Update] Instagram to 240.2.0.18.107.
-[Add] All the new Instagram features.
-[NEW] New design for Instagram Gold addon.
-[New] New design for app lock option.
-[New] You can now show hidden chats by long pressing on the search box.
-[Remove] Fast video forwarding by Instagram.
-[Fixed] Developer options issue.
-[Fixed] The problem of crashing when changing the language in Android 12.
+[Update Base] Instagram to 249.0.0.20.105
+[Added] All the new Instagram features
+[Removed] Font change feature due to some problems
+[Improved] Update codes
+[Fixed] The problem with the appearance of videos is not clear
 [More] Other important fixes and improvements.
