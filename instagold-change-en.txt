@@ -1,11 +1,9 @@
-What's new in version V9.80
+What's new in version V9.90
 
- [Base Update] Instagram to 261.0.0.21.111
+ [Base Update] Instagram to 268.0.0.18.72
 [Added] All the new Instagram features
-[Added] An option to change the shape of the stories in the circular and square shape from Instagram settings > Enhancement > Change Stories Layout
-[Improve] Story size increase feature
-[Return] The feature of changing fonts and adding iPhone fonts
-[Fixed] The problem of stories appearing in square shape
-[Fixed] the problem of crashing when opening the application
-[Fixed] Download Rails button
-[Fixed] Several random crashes and crashes
+[Added] Video submission feature
+[Added] some new icons
+[Fixed] The problem of collapsing in conversations
+[Fixed] All crashing issues
+[More] Fixes and improvements, discover it yourself
