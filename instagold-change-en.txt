@@ -1,9 +1,12 @@
-What's new in version V9.90
+What's new in version V10.00
 
- [Base Update] Instagram to 268.0.0.18.72
+ [Base update] 278.0.0.21.117
+ [Added] A shortcut button for InstaG+ Settings on the main screen of Instagram
+[Exclusive] Anti-Screenshot tracker
+[Exclusive] Anti-Reply viewing images
+[Exclusive] Hide that you listen to the voice messages
 [Added] All the new Instagram features
-[Added] Video submission feature
-[Added] some new icons
+[Fixed] Problem of crashing when uploading images in the chat
 [Fixed] The problem of collapsing in conversations
 [Fixed] All crashing issues
 [More] Fixes and improvements, discover it yourself
