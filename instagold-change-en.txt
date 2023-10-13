@@ -1,4 +1,4 @@
-What's new in version V10.20
+What's new in version V10.30
 
 [Base update] 292.0.0.31.110
 [Added] All the new Instagram features
