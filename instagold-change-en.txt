@@ -1,8 +1,7 @@
-What's new in version V10.30
+What's new in version V10.40
 
-[Base update] 292.0.0.31.110
+[Base update] 311.0.0.32.118
 [Added] All the new Instagram features
-[Added] Share Button In Post
-[Enable] Channels Option
+[Added] Create channels
 [Fixed] All crashing issues
 [More] Fixes and improvements, discover it yourself
