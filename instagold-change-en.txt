@@ -1,7 +1,4 @@
-What's new in version V10.40
+• new update V10.50
 
-[Base update] 311.0.0.32.118
-[Added] All the new Instagram features
-[Added] Create channels
-[Fixed] All crashing issues
-[More] Fixes and improvements, discover it yourself
+• It contains many great new features
+• More important fixes and improvements
