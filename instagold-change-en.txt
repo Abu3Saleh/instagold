@@ -1,5 +1,6 @@
-• new update V11.10
+• new update V11.50
 
 • It contains many great new features
 • More important fixes and improvements
+
 
