@@ -1,0 +1,13 @@
+{ 
+"latestVersionCode": 5, 
+"latestVersionName": "12.20", 
+"whatsNew": { 
+"ar": "- إضافة زر تنزيل مباشر داخل المحادثات لجميع الوسائط.\n- تحسين وسائط العرض لمرة واحدة.\n- إضافة جميع أيقونات Instagram Plus وأيقونات التمويه مع تغيير اسم التطبيق.\n- إضافة التمرير التلقائي للريلز.\n- تحسين الرسائل المحذوفة لكل حساب وإصلاح ظهور اسم صاحب الرسالة.\n- استعادة طريقة إخفاء المحادثات القديمة المستقرة.\n- إصلاح المنشن في القصص ومنع اختفائه نهائيًا.\n- إصلاح الإيموجي في المحادثات والرسائل والتفاعلات.\n- إضافة خيار إعادة ضبط إعدادات InstaGold.\n- إصلاح تجاوز قفل التطبيق عند الرجوع.\n- إصلاح مسار التنزيلات إلى الذاكرة الخارجية.\n- إصلاح ألوان الوضع الليلي داخل المحادثات.\n- استعادة التكبير بالضغط المطول على صور المنشورات.\n- إصلاح البطء والتعليق وتحسين سرعة التطبيق.\n- إصلاح وتحسين تحويل الفيديو إلى رسالة صوتية.\n- إصلاح مشاكل صوت القصص.\n- دمج خيارات شاشة الكتابة داخل أيقونة واحدة.\n- إضافة خيار إخفاء زر أدوات المحادثة.\n- المزيد من الإصلاحات وتحسينات الأداء والاستقرار.", 
+ 
+"en": "- Added a direct download button in chats for all media types.\n- Improved view-once media support.\n- Added all Instagram Plus and disguise icons with app name changing.\n- Added automatic Reels scrolling.\n- Improved deleted messages per account and fixed sender name display.\n- Restored the classic stable Hidden Chats method.\n- Fully fixed Story Mentions and disappearing issues.\n- Fixed emojis in chats, messages, and reactions.\n- Added Reset InstaGold Settings option.\n- Fixed App Lock bypass when returning to the app.\n- Fixed external storage download path.\n- Fixed Dark Mode colors in chats.\n- Restored long-press zoom on post images.\n- Fixed lag and freezing and improved app speed.\n- Fixed and improved Video-to-Voice conversion.\n- Fixed Story audio issues.\n- Combined composer options into a single icon.\n- Added an option to hide the Chat Tools button.\n- More performance, stability, and bug fixes." 
+ 
+}, 
+"downloadUrl": "https://app.9aleh.com/2025/08/instamas-gold.html", 
+"forceUpdate": false, 
+"showIntervalHours": 3 
+}
